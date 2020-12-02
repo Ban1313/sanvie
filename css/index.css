@@ -1,0 +1,21 @@
+.nav{
+    height: 30px;
+    background: #e3e4e5;
+    border-bottom: 1px solid #e3e4e5;
+}
+
+.nav-box{
+    /* 居中显示 */
+    margin: 0px auto;
+    width: 1190px;
+    text-align:right;
+
+}
+
+.nav-box ul li{
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+}
